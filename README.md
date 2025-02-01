@@ -27,19 +27,31 @@ Object-Oriented Programming principles.
 
 📁 BusVoyageManagement
 │── 📂 src
+
 │   ├── 📄 Main.java
+
 │   ├── 📄 Voyage.java
+
 │   ├── 📄 Bus.java
+
 │   ├── 📄 StandardBus.java
+
 │   ├── 📄 PremiumBus.java
+
 │   ├── 📄 Minibus.java
+
 │   ├── 📄 TicketManager.java
+
 │   ├── 📄 VoyageManager.java
+
 │── 📄 README.md
+
 │── 📄 sample input output
 
 📝 Sample Commands
 
 INIT_VOYAGE	Standard	7	Ankara	Istanbul	12	400	12
+
 SELL_TICKET	7	10_11
+
 REFUND_TICKET	7	10
